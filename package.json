@@ -1,0 +1,17 @@
+{
+  "name": "kmisskey-all",
+  "version": "0.1.0-SNAPSHOT",
+  "main": "kmisskey-all.js",
+  "types": "kmisskey-all.d.ts",
+  "devDependencies": {
+    "typescript": "5.9.2"
+  },
+  "dependencies": {
+    "ws": "8.18.3",
+    "@js-joda/core": "3.2.0",
+    "format-util": "^1.0.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
